@@ -34,5 +34,10 @@ button {
 input {
   padding: 0.5rem;
   font-size: 1.5rem;
-  width: 110px;
+  width: 210px;
+}
+
+#inputField,
+#resultField {
+  width: 20rem;
 }
