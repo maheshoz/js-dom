@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  background-color: #eee;
+  margin: 0;
+  padding: 0;
+}
+
+.heading {
+  margin-top: 0;
+  font-size: 3rem;
+  text-align: center;
+  padding: 2rem;
+  background-color: #d7d7d7;
+}
+
+nav {
+  margin: 32px 16px;
+  font-size: 1.5rem;
+}
+
+main {
+  margin-left: 2rem;
+}
+
+button {
+  padding: 0.5rem 1.5rem;
+  font-size: 1.5rem;
+}
