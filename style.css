@@ -42,3 +42,10 @@ input {
 #resultField {
   width: 20rem;
 }
+
+#colorBox {
+  width: 100px;
+  height: 100px;
+  background-color: #000;
+  margin-top: 5px;
+}
